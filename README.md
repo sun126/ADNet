@@ -10,7 +10,8 @@
 
 **Test**  
 
-python main.py 
+python main.py  
+
     --use_gpu=1 \                           # use gpu or not  
     
     --gpu_idx=0 \  
@@ -25,14 +26,16 @@ python main.py
     
 **Train**  
 
-python main.py
+python main.py  
+
     --use_gpu=1 \                           # use gpu or not  
     
     --gpu_idx=0 \  
     
     --gpu_mem=0.5 \                         # gpu memory usage  
     
-    --phase=train \
+    --phase=train \  
+    
     --epoch=100 \                           # number of training epoches  
     
     --batch_size=16 \  
