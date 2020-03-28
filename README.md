@@ -18,7 +18,7 @@ python main.py
     --save_dir=/path/to/save/results/ \  
     
 **Train**  
-
+put your dataset in ./data  
 python main.py  
 
     --use_gpu=1 \                           # use gpu or not  
