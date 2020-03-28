@@ -32,3 +32,7 @@ python main.py
     --eval_every_epoch=20 \                 # evaluate and save checkpoints for every # epoches  
     --checkpoint_dir=./checkpoint           # if it is not existed, automatically make dirs  
     --sample_dir=./sample                   # dir for saving evaluation results during training
+
+You can read more details in https://blog.csdn.net/sf_qw39/article/details/105161957  
+If you find any problem when running the code, please contact to me.
+
